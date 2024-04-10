@@ -50,6 +50,12 @@ eth0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
         inet 10.41.11.54  netmask 255.255.0.0  broadcast 10.41.255.255
 ```
 
+# Alternative with docker hub
+The image can also be pulled from docker hub
+```
+docker pull martingillmannch/i_cacti
+```
+
 # Prerequirements
 A device which has docker running. In my case it is the raspberry pi 4.
 ```

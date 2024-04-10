@@ -1,5 +1,9 @@
 # cacti-docker-for-raspberry
 Run Cacti monitoring solution in a docker on Linux/Debian/Raspberrypi 4
+The Dockerfile handles the installation of the needed components (PHP, Apache2, MySQL, Cacti...) and all the tweaking to get Cacti running smoothly.
+
+# Instructions
+
 ### 1) Copy the Dockerfile 
 and cd into the folder where you copied the Dockerfile into
 

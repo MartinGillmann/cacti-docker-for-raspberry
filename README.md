@@ -29,6 +29,8 @@ http://<MYSERVERNAME>/cacti
 ```
 and logon with the default username **admin** and password **admin**.
 
+![Browser Startup](https://github.com/MartinGillmann/cacti-docker-for-raspberry/blob/361c60a1887bb2b7c44f76e456d4397a1c81cb08/Images/Cacti_startup.jpg)
+
 To find out the ip of your docker host use **ifconfig eth0**
 ```
 root@raspberrypi:/# ifconfig eth0
@@ -72,6 +74,8 @@ root@raspberrypi:/# docker -v
 Docker version 24.0.7, build afdd53b
 ```
 
-  
+# Support
+If you feel this has saved you time, please consider buying me a coffee.
+
 
 

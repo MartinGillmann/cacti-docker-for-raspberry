@@ -99,5 +99,8 @@ If you feel this has saved you time, please consider buying me a coffee.
 
 Thanks!
 
+# Feedback
+Please feel free to contact me and tell me on which hardware you got cacti to work.
+
 
 

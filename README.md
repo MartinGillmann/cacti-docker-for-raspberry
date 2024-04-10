@@ -77,5 +77,9 @@ Docker version 24.0.7, build afdd53b
 # Support
 If you feel this has saved you time, please consider buying me a coffee.
 
+[www.buymeacoffee.com/mgillmann](https://www.buymeacoffee.com/mgillmann)
+
+Thanks!
+
 
 
